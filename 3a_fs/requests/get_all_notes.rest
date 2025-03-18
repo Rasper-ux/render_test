@@ -1,1 +1,1 @@
-GET https://render-test-txy9.onrender.com/api/notes
+GET http://localhost:3001/api/notes
